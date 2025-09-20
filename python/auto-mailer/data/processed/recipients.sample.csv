@@ -1,0 +1,2 @@
+﻿email,name,origin,destination,days_window,max_price,cheapest_price,flight_date,airline,duration,active
+demo@example.com,Имя,Delhi,Mumbai,14,6000,,2025-09-30,,,

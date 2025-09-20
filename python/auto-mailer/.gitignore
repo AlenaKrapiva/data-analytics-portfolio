@@ -1,0 +1,35 @@
+# venv & секреты
+.venv/
+.env
+.env.*
+
+# кэш/служебное
+__pycache__/
+*.py[cod]
+*.pyo
+
+# логи и runtime
+logs/
+*.log
+state/
+
+# данные
+data/raw/                    # сырой Kaggle
+data/attachments/*           # вложения
+!data/attachments/.gitkeep
+
+# сгенерированные таблицы 
+data/processed/*.csv
+!data/processed/recipients.sample.csv
+!data/processed/.gitkeep
+
+# kaggle token
+.kaggle/
+
+# OS/IDE 
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+
