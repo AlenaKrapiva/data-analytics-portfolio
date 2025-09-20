@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Виртуальная среда
+.venv/
+
+# IDE/OS мусор
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Секреты и локальные настройки
+.env
+*.env
+
+# Временные/генерируемые файлы
+*.xlsx
