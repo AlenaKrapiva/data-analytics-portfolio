@@ -32,6 +32,6 @@
 
 
 ## ▶️ Видео
-[Смотреть демо на Google Drive](https://drive.google.com/file/d/1Hq1m5rajWHAiMbjQrTPSJZtHsGhR3Yy/view?usp=drive_link)
+[Смотреть демо на Google Drive](https://drive.google.com/file/d/1Hq1m5rajWHAiIMbjQrTPSJZtHsGhR3Yy/view?usp=drive_link)
 
 
